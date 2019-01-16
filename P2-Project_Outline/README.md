@@ -7,11 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I am building a Task tracking application. Similar to something like Trello. It will be geared toward github users as i will integrate github repositories and github sign in.
 ### Features
-Include Features here
+User login, Creating tasks, Creating Groups, APIs
 ### Technologies
-Include Technologies here
-
+Java,Springboot,ThymeLeaf,Oauth
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn to integrate APIs and Oauth login.
