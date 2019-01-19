@@ -17,4 +17,4 @@ https://trello.com/b/xqJ3erLx/task-project
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/Briantpt30/Task-Project.git
