@@ -13,6 +13,7 @@ https://github.com/Briantpt30
 https://www.linkedin.com/in/brian-quezada-633b3686/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+Resume has been uploaded in C1-Online_Profiles
+
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
